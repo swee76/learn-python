@@ -7,3 +7,10 @@ except ZeroDivisionError as err:
     print(err)
 except ValueError:
     print("Invalid Input")
+
+# In javascript we use try-catch block to handle exceptions
+# try{
+#
+# }catch (Exception e){
+#  console.log(e)
+# }
